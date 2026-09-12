@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|c:\\users\\user\\desktop\\probnichek\\pracvue\\practices\\p13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|c:\\users\\user\\desktop\\probnichek\\pracvue\\practices\\p13\\publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|solutionrelative:publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|c:\\users\\user\\desktop\\probnichek\\pracvue\\practices\\p13\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|c:\\users\\user\\desktop\\probnichek\\pracvue\\practices\\p13\\ilibrarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|solutionrelative:ilibrarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|c:\\users\\user\\desktop\\probnichek\\pracvue\\practices\\p13\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|solutionrelative:reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|c:\\users\\user\\desktop\\probnichek\\pracvue\\practices\\p13\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|c:\\users\\user\\desktop\\probnichek\\pracvue\\practices\\p13\\publishinghouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEA22E6-95A0-4C77-AAD6-9F1499C3D86D}|p13.csproj|solutionrelative:publishinghouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publication.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\Publication.cs",
+              "RelativeDocumentMoniker": "Publication.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\Publication.cs*",
+              "RelativeToolTip": "Publication.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T18:40:46.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\Library.cs*",
+              "RelativeToolTip": "Library.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T18:39:31.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibraryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\ILibraryManagement.cs",
+              "RelativeDocumentMoniker": "ILibraryManagement.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\ILibraryManagement.cs*",
+              "RelativeToolTip": "ILibraryManagement.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T18:38:24.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\Reader.cs",
+              "RelativeDocumentMoniker": "Reader.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\Reader.cs*",
+              "RelativeToolTip": "Reader.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T18:37:08.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\Book.cs*",
+              "RelativeToolTip": "Book.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T18:35:43.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PublishingHouse.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\PublishingHouse.cs",
+              "RelativeDocumentMoniker": "PublishingHouse.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\PublishingHouse.cs*",
+              "RelativeToolTip": "PublishingHouse.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T18:34:39.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Probnichek\\PRACVUE\\practices\\p13\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T16:41:49.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

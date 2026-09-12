@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\bin\Debug\net10.0\p10.exe
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\bin\Debug\net10.0\p10.deps.json
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\bin\Debug\net10.0\p10.runtimeconfig.json
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\bin\Debug\net10.0\p10.dll
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\bin\Debug\net10.0\p10.pdb
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\obj\Debug\net10.0\p10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\obj\Debug\net10.0\p10.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\obj\Debug\net10.0\p10.AssemblyInfo.cs
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\obj\Debug\net10.0\p10.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\obj\Debug\net10.0\p10.sourcelink.json
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\obj\Debug\net10.0\p10.dll
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\obj\Debug\net10.0\refint\p10.dll
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\obj\Debug\net10.0\p10.pdb
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\obj\Debug\net10.0\p10.genruntimeconfig.cache
+C:\Users\USER\Desktop\Probnichek\PRACVUE\practices\p10\obj\Debug\net10.0\ref\p10.dll
